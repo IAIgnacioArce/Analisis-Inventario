@@ -13,7 +13,7 @@
 
 ## Acerca del proyecto
 ### Contexto
-Any Manufacturing Company es una empresa manufacturera de tamaño mediano que produce componentes electrónicos. Tienen una amplia gama de productos y mantienen un inventario de materias primas, productos en proceso (WIP) y productos terminados. La empresa ha estado experimentando problemas con la gestión de inventarios, incluyendo desabastecimientos, exceso de inventario y aumento de los costos de mantenimiento. El equipo de gestión desea realizar un análisis de inventario para identificar áreas de mejora y optimizar sus prácticas de gestión de inventarios.
+Stampy es una empresa manufacturera de tamaño mediano que produce componentes electrónicos. Tienen una amplia gama de productos y mantienen un inventario de materias primas, productos en proceso (WIP) y productos terminados. La empresa ha estado experimentando problemas con la gestión de inventarios, incluyendo desabastecimientos, exceso de inventario y aumento de los costos de mantenimiento. El equipo de gestión desea realizar un análisis de inventario para identificar áreas de mejora y optimizar sus prácticas de gestión de inventarios.
 
 ### Objetivos
 
@@ -55,9 +55,9 @@ Basado en el análisis, se proporcionarán los siguientes entregables:
 - **Cálculos de Punto de Reorden y EOQ**: Puntos de reorden y cantidades económicas de pedido para cada producto para minimizar desabastecimientos y costos.
 - **Recomendaciones de Mejora de Procesos**: Sugerencias para mejorar los procesos de adquisición y producción para aumentar la eficiencia.
 - **Análisis de Rotación de Inventarios**: Evaluación de las ratios de rotación de inventarios y recomendaciones para mejorar la eficiencia del capital de trabajo.
-- **Estrategia de Gestión de Inventarios**: Desarrollo de una estrategia integral de gestión de inventarios para AstraNova Manufacturing Company.
+- **Estrategia de Gestión de Inventarios**: Desarrollo de una estrategia integral de gestión de inventarios para Stampy.
 
-Al realizar este análisis de inventario, AstraNova Manufacturing Company espera mejorar sus prácticas de gestión de inventarios, reducir costos y aumentar la satisfacción del cliente al garantizar la disponibilidad de productos.
+Al realizar este análisis de inventario, Stampy espera mejorar sus prácticas de gestión de inventarios, reducir costos y aumentar la satisfacción del cliente al garantizar la disponibilidad de productos.
 
 ## Tecnologías
 Aquí van las tecnologías que vamos a usar.
