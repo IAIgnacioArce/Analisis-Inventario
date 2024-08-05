@@ -76,7 +76,7 @@ Aquí va el contenido de la licencia.
 <table align="center">
   <tr>
     <td align="center"><b>Ignacio Arce</b></td>
-    <td align="center"><b>Felipe Varela</b></td>
+    <td align="center"><b>Luca Maccarone</b></td>
   </tr>
   <tr>
     <td align="center"><img src="fotos/hero.png" alt="nacho" width="100"/></td>
